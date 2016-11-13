@@ -6,7 +6,7 @@
 	"Description": "OBP Plugin enables your Blueprints with a simple and quick Custom Event to fire Begin Play function within a timed order of execution.",
 	"CreatedBy": "(C) Bruno Xavier Leite",
 	"CreatedByURL": "http://brunoxavierleite.com",
-	"DocsURL": "https://brunoxavierleite.com/???/",
+	"DocsURL": "https://forums.unrealengine.com/showthread.php?128648-Begin-Play-Execution-Order",
 	"MarketplaceURL": "",
 	"SupportURL": "mailto:bruno_xavier_@msn.com",
 	"CanContainContent": false,
