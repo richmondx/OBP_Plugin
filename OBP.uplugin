@@ -1,0 +1,32 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "OBP - Ordered Begin Play",
+	"Description": "OBP Plugin enables your Blueprints with a simple and quick Custom Event to fire Begin Play function within a timed order of execution.",
+	"CreatedBy": "(C) Bruno Xavier Leite",
+	"CreatedByURL": "http://brunoxavierleite.com",
+	"DocsURL": "https://brunoxavierleite.com/???/",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:bruno_xavier_@msn.com",
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"IsBetaVersion": false,
+	"Category": "SYNAPTECH",
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OBP",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"iOS",
+				"Android"
+			]
+		}
+	]
+}
